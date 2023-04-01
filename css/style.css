@@ -67,9 +67,8 @@ section {
 	align-items: center;
 }
 .home-img img {
-	width: 33vw;
-	border-radius: 50%;
-	box-shadow: 15px 15px 20px #00eeff;
+	width: 35vw;
+    border-radius: 41%;
 }
 .home-content h3 {
 	font-size: 3.2rem;
