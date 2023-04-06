@@ -11,10 +11,10 @@
 	font-family: 'Poppins', sans-serif;
 }
 :root {
-	--bg-color: #1f242d;
-	--second-bg-color: #323946;
-	--text-color: #fff;
-	--main-color: rgb(0, 238, 255);
+	--bg-color: #e4e3e0;
+	--second-bg-color: #ffffff;
+	--text-color: #3b3843;
+	--main-color: #BA55D3;
 }
 html {
 	font-size: 62.5%;
@@ -64,6 +64,7 @@ section {
 .navbar a:hover,
 .navbar a.active {
 	color: var(--main-color);
+	text-shadow: 1px 1px 2px #696969;
 }
 #menu-icon {
 	font-size: 3.6rem;
